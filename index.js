@@ -23,6 +23,12 @@ const questions = [
     message: 'Please enter your repository name'
  },
 
+ {
+   input: 'input',
+   questionName: 'userStory',
+   message: 'Please enter your repository name'
+},
+
 ];
 
 // function to write README file
