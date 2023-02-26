@@ -50,7 +50,7 @@ const questions = [
 {
    input: 'input',
    questionName: 'license',
-   message: 'Please enter the license that you are under'
+   message: 'Please enter the license name that you are under'
 },
 
 ];

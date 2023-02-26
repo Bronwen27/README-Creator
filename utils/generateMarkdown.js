@@ -2,7 +2,29 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
- ${data.}
+  ## User Story
+
+  ${data.userStory}
+
+  ## Description 
+
+  ${data.description}
+
+  ## Usage
+
+  ${data.usage}
+
+  ## Commands
+
+  ${data.commands}
+
+  ### Deployed Link:
+
+  ${data.deployedLink}
+
+  ### License
+
+  This project is licensed under the ${data.license} license.
 
 `;
 }
