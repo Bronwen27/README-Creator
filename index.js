@@ -61,13 +61,12 @@ writeToFile('README.md', '# My Project\nThis is a description of my project.');
 
 
 // function to initialize program
-const inquirer = require('inquirer');
 const ora = require('ora');
 
 function init() {
   const spinner = ora('Loading questions...').start();
 
-  inquirer.createPromptModule(questions).then((response) => {
+  inquirer.prompt(questions).then((response) => {
     spinner.stop();
     console.log(response);
 

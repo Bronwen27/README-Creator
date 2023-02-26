@@ -1,2 +1,2 @@
-# README-Creator
-A README generator app that creates a README from user input.
+# My Project
+This is a description of my project.
