@@ -13,14 +13,14 @@ const questions = [
 
  {
     input: 'input',
-    questionName: 'userName',
-    message: 'Please enter your repository name'
+    questionName: 'title',
+    message: 'Please enter your repository title'
  },
 
  {
     input: 'input',
     questionName: 'userStory',
-    message: 'Please enter your repository name'
+    message: 'Please write a breif descriptions of the expectations of the user and what the purpose is for them using your project'
  },
 
  {
@@ -75,6 +75,8 @@ function init() {
   inquirer.createPromptModule(questions).then((response) => {
     spinner.stop();
     console.log(response);
+
+    writeToFile('README.md', generateMarkdown({...response}))
   });
 }
 
