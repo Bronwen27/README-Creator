@@ -37,8 +37,8 @@ const questions = [
 
 {
    input: 'input',
-   questionName: 'commands',
-   message: 'please enter any commands that will be needed to install/ run  or test any parts of your project'
+   questionName: 'installation',
+   message: 'please describe any commands that will be needed to install/ run  or test any parts of your project'
 },
 
 {

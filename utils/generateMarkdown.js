@@ -14,9 +14,9 @@ function generateMarkdown(data) {
 
   ${data.usage}
 
-  ## Commands
+  ## Installation
 
-  ${data.commands}
+  ${data.installation}
 
   ### Deployed Link:
 
