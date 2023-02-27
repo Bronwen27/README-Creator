@@ -10,22 +10,35 @@ function generateMarkdown(data) {
 
   ${data.description}
 
-  ## Usage
+  ## Table Of Contents:
 
-  ${data.usage}
+  * 
+
 
   ## Installation
 
   ${data.installation}
 
-  ### Deployed Link:
+  ## Usage
+
+  ${data.usage}
+
+  ## Deployed Link:
 
   ${data.deployedLink}
 
-  ### License
+  ## License
 
   This project is licensed under the ${data.license} license.
 
+  ## Contributing 
+
+  You can contribute to this project via [Contributor Covenant](https://www.contributor-covenant.org/)
+
+  ## Tests
+
+
+  ## Questions
 `;
 }
 
