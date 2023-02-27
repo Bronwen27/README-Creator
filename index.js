@@ -4,7 +4,7 @@ const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
 
 // array of questions for user
-const questions = [
+inquirer.prompt([
 
  {
     input: 'input',
@@ -48,7 +48,11 @@ const questions = [
    message: 'Please enter the license name that you are under'
 },
 
-];
+])
+
+.then(function(answer){
+   console.log(answer);
+});
 
 // function to write README file
 function writeToFile(fileName, data) {
