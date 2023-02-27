@@ -9,7 +9,6 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "index.js": "^0.0.3",
     "inquirer": "^6.3.1",
     "ora": "^5.4.1"
   }
