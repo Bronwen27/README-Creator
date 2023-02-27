@@ -12,7 +12,15 @@ function generateMarkdown(data) {
 
   ## Table Of Contents:
 
-  * 
+  * [User Story](#userStory)
+  * [Description](#description)
+  * [Installation](#installation)
+  * [Usage](#usage)
+  * [Deployed Link](#deployedLink)
+  * [License](#license)
+  * [Contribute](#contribute)
+  * [Tests](#tests)
+  * [Questions](#questions)
 
 
   ## Installation
@@ -31,7 +39,7 @@ function generateMarkdown(data) {
 
   This project is licensed under the ${data.license} license.
 
-  ## Contributing 
+  ## Contribute 
 
   You can contribute to this project via [Contributor Covenant](https://www.contributor-covenant.org/)
 
