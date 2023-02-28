@@ -48,10 +48,11 @@ function generateMarkdown(data) {
 
   ## Contribute 
 
-  
+  ${data.contribute}
 
   ## Tests
 
+ ${data.tests}
 
   ## Questions
 
