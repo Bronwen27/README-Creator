@@ -45,7 +45,7 @@ const questions = [
 {
    type: 'input',
    name: 'contribute',
-   message: 'please write whether the user can contribute to this project and include the channels they should use: '
+   message: 'please write whether the user can contribute and how: '
 },
 
 {
