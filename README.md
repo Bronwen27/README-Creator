@@ -10,7 +10,9 @@
   ### Presentation
   🎥
 
-  www.youtube.com
+  Please watch my presentation of this project in the link below:
+
+  https://youtu.be/K6WxAi00DEE
 
   ## Table Of Contents
   🧭
@@ -51,9 +53,3 @@
 
  Use 'npm test' to run test.
 
-  ## Questions
-  ❓
-
-  Thank you for your interest in this project. If you have any questions regarding this project, please contact me at bronwen@example.com
-
-  If you are interested in viewing more of my work, check out my github page at: github/Bronwen27
