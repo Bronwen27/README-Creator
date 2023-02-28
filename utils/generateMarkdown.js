@@ -49,6 +49,7 @@ function generateMarkdown(data) {
 
   ## License📝
 
+  This project is licensed under:
  ${renderLicenseBadge(data.license)}
 
   ## Contribute🤝
