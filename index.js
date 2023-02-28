@@ -13,7 +13,7 @@ const questions = [
  },
  {
     type: 'input',
-    name: 'userStory',
+    name: 'user-story',
     message: 'Please write a brief description of the expectations of the user and what the purpose is for them using your project'
  },
  {
@@ -36,7 +36,7 @@ const questions = [
 
 {
    type: 'input',
-   name: 'deployedLink',
+   name: 'deployed-link',
    message: 'Please enter your deployment link'
 },
 
