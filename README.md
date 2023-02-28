@@ -1,49 +1,50 @@
-# bronwen
+# README-Creator
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description 📖
+  ## Description📖
 
-  i am me
+  This node.js application uses answers given by the user to format and generate a fresh and dynamic README file for their Github repository. This application was made using JavaScript, Sheilds and node.js. 
 
-  ### Presentation 🎥
+  ### Presentation🎥
 
-  youtube
+  www.youtube.com
 
-  ## Table Of Contents 🧭 
+  ## Table Of Contents🧭 
 
-  * [Description](#description)
-  * [Presentation](#presentation)
-  * [Installation](#installation)
-  * [Usage](#usage)
-  * [License](#license)
-  * [Contribute](#contribute)
-  * [Tests](#tests)
-  * [Questions](#questions)
+  * [Description](#description📖)
+  * [Presentation](#presentation🎥)
+  * [Installation](#installation⬇️)
+  * [Usage](#usage✍️)
+  * [License](#license📝)
+  * [Contribute](#contribute🤝)
+  * [Tests](#tests🧪)
+  * [Questions](#questions❓)
 
 
-  ## Installation ⬇️
+  ## Installation⬇️
 
-  npm
+  Use 'npm i' to install.
 
-  ## Usage ✍️
+  ## Usage✍️
 
-  use it well
+  Install node before starting. Once installed, open the integrated terminal and enter ‘npm I’, then open the application by entering ‘node index.js’. Questions will then appear on the screen that will need to be answered and then sent by pressing ‘enter’. Upon completion a README file will be automatically generated and can be viewed in the README.md file and then pushed to the chosen Github repository. 
 
-  ## License 📝
+  ## License📝
 
+  This project is licensed under:
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Contribute 🤝
+  ## Contribute🤝
 
-  yes use them
+  The user can contribute by using fork on Github.
 
-  ## Tests 🧪
+  ## Tests🧪
 
- good ones
+ Use 'npm test' to run tests.
 
-  ## Questions ❓
+  ## Questions❓
 
-  Thank you for your interest in this project. If you have any questions regarding this project, please contact me at me@gmail.com
+  Thank you for your interest in this project. If you have any questions regarding this project, please contact me at bronwen@example.com
 
-  If you are interested in viewing more of my work, check out my github page at: mememe
+  If you are interested in viewing more of my work, check out my github page at: Bronwen27
