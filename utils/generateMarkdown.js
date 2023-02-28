@@ -19,15 +19,15 @@ function generateMarkdown(data) {
 
   ${renderLicenseBadge(data.license)}
 
-  ## Description 
+  ## Description 📖
 
   ${data.description}
 
-  ### Presentation:
+  ### Presentation 🎥
 
   ${data.presentation}
 
-  ## Table Of Contents:
+  ## Table Of Contents 🧭 
 
   * [Description](#description)
   * [Presentation](#presentation)
@@ -39,27 +39,27 @@ function generateMarkdown(data) {
   * [Questions](#questions)
 
 
-  ## Installation
+  ## Installation ⬇️
 
   ${data.installation}
 
-  ## Usage
+  ## Usage ✍️
 
   ${data.usage}
 
-  ## License
+  ## License 📝
 
  ${renderLicenseBadge(data.license)}
 
-  ## Contribute 
+  ## Contribute 🤝
 
   ${data.contribute}
 
-  ## Tests
+  ## Tests 🧪
 
  ${data.tests}
 
-  ## Questions
+  ## Questions ❓
 
   Thank you for your interest in this project. If you have any questions regarding this project, please contact me at ${data.email}
 

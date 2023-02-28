@@ -2,15 +2,15 @@
 
   [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Description 
+  ## Description 📖
 
   dghchkc
 
-  ### Presentation:
+  ### Presentation 🎥 :
 
   cgfchvgj
 
-  ## Table Of Contents:
+  ## Table Of Contents 🧭 :
 
   * [Description](#description)
   * [Presentation](#presentation)
@@ -22,27 +22,27 @@
   * [Questions](#questions)
 
 
-  ## Installation
+  ## Installation ⬇️
 
   cfgyjgv
 
-  ## Usage
+  ## Usage ✍️
 
   dfgcyh
 
-  ## License
+  ## License 📝
 
  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-  ## Contribute 
+  ## Contribute 🤝
 
   cgcjvj
 
-  ## Tests
+  ## Tests 🧪
 
  dgcfhcjv
 
-  ## Questions
+  ## Questions ❓
 
   Thank you for your interest in this project. If you have any questions regarding this project, please contact me at xdxrfxf
 
