@@ -26,7 +26,7 @@ const questions = [
 {
    type: 'input',
    name: 'installation',
-   message: 'please describe any commands that will be needed to installed to run programme: '
+   message: 'please describe any commands that will be need to be installed to run programme: '
 },
 
 {
