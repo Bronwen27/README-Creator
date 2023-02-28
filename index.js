@@ -19,6 +19,12 @@ const questions = [
 
 {
    type: 'input',
+   name: 'presentation',
+   message: 'Please enter your presentation link and/or images of application: '
+},
+
+{
+   type: 'input',
    name: 'installation',
    message: 'please describe any commands that will be needed to install/run or test any parts of your project: '
 },
