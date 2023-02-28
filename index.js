@@ -32,7 +32,8 @@ const questions = [
 {
    type: 'input',
    name: 'license',
-   message: 'Please enter the license name that you are under'
+   message: 'Please enter the license name that you are under',
+   choices: ['MIT', 'Apache 2.0', 'GPLv3', 'BSD 3-Clause', 'Unlicensed']
 },
 
 {
