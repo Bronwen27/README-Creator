@@ -2,7 +2,6 @@ const fs = require("fs");
 const path = require('path');
 const inquirer = require("inquirer");
 const generateMarkdown = require("./utils/generateMarkdown");
-const ora = require('ora');
 
 // array of questions for user
 const questions = [
