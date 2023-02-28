@@ -37,6 +37,9 @@
 
   Install node before starting. Once installed, open the integrated terminal and enter ‘npm I’, then open the application by entering ‘node index.js’. Questions will then appear on the screen that will need to be answered and then sent by pressing ‘enter’. Upon completion a README file will be automatically generated and can be viewed in the README.md file and then pushed to the chosen Github repository. 
 
+  ![screenshot of integrated terminal](/assets/Screenshot-one.png)
+  ![screenshot of README preview](/assets/Screenshot-two.png)
+
   ## License
   📝
 
@@ -52,4 +55,8 @@
   🧪
 
  Use 'npm test' to run test.
+
+ ### Deployed Link:
+
+ 
 
