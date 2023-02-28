@@ -11,11 +11,7 @@ const questions = [
     name: 'title',
     message: 'Please enter your repository title'
  },
- {
-    type: 'input',
-    name: 'user-story',
-    message: 'Please write a brief description of the expectations of the user and what the purpose is for them using your project'
- },
+ 
  {
    type: 'input',
    name: 'description',
@@ -32,12 +28,6 @@ const questions = [
    type: 'input',
    name: 'usage',
    message: 'Please write a brief summary of how to use your project, you may wish to include some image links'
-},
-
-{
-   type: 'input',
-   name: 'deployed-link',
-   message: 'Please enter your deployment link'
 },
 
 {

@@ -2,10 +2,6 @@
 function generateMarkdown(data) {
   return `# ${data.title}
 
-  ## User Story
-
-  ${data.userStory}
-
   ## Description 
 
   ${data.description}
@@ -30,10 +26,6 @@ function generateMarkdown(data) {
   ## Usage
 
   ${data.usage}
-
-  ## Deployed Link:
-
-  ${data.deployedLink}
 
   ## License
 
