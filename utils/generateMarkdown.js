@@ -41,14 +41,16 @@ function generateMarkdown(data) {
 
   ## Contribute 
 
-  You can contribute to this project via [Contributor Covenant](https://www.contributor-covenant.org/)
+  
 
   ## Tests
 
 
   ## Questions
 
-  If you have
+  Thank you for your interest in this project. If you have any questions reguarding this project, please contact me at ${data.email}
+
+  If you are interested in viewing more of my work, check out my github page at: ${data.githubName}
 `;
 }
 
